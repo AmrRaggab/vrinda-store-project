@@ -1,0 +1,16 @@
+
+vrinda store project:
+
+objective:-
+vrinda store wants to create an annual sales report for 2022. so that ,
+vrinda can understanding their customers and grow more sales in 2023.
+
+steps:
+1 - Data cleaning.
+2 - Data Processing.
+3 - Data Analysis.
+
+tools : Excel
+                 
+Final -> Dashboard improve Vrinda store sales in 2023. 
+
